@@ -1,0 +1,15 @@
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\bin\Debug\net9.0\Exercise01.exe
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\bin\Debug\net9.0\Exercise01.deps.json
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\bin\Debug\net9.0\Exercise01.runtimeconfig.json
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\bin\Debug\net9.0\Exercise01.dll
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\bin\Debug\net9.0\Exercise01.pdb
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\Exercise01.AssemblyInfoInputs.cache
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\Exercise01.AssemblyInfo.cs
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\Exercise01.csproj.CoreCompileInputs.cache
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\Exercise01.sourcelink.json
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\Exercise01.dll
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\refint\Exercise01.dll
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\Exercise01.pdb
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\Exercise01.genruntimeconfig.cache
+D:\Projects\C Sharp Exercises\Arrays\Exercise01\obj\Debug\net9.0\ref\Exercise01.dll
